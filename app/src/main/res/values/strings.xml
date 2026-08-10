@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Trợ lý hành chính</string>
+    <string name="widget_description">Widget hiển thị 3 cuộc họp sắp tới cho cán bộ</string>
+</resources>

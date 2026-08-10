@@ -1,0 +1,6 @@
+{
+  "name": "VHXH - Trợ lý hành chính",
+  "description": "Ứng dụng hỗ trợ cán bộ, công chức UBND xã trong việc theo dõi lịch họp, ghi chú, thời tiết, lịch tháng, trợ lý AI và sao lưu khôi phục dữ liệu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
